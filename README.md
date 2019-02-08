@@ -1,1 +1,7 @@
-This is readme file
+#Understanding application
+
+# Title - calculatinf food item 
+- My application will calculate food item with cost and tax
+
+# ConsoleApp
+![Console Output](./Untitled.png)
